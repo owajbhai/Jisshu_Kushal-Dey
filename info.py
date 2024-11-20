@@ -34,10 +34,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'My_Tg_files')
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '0'))  # set shortner log channel
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','0')) # The movie you upload in it will be deleted from the bot.
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '0'))
-auth_channel = environ.get('AUTH_CHANNEL', 'https://t.me/+yxOa9prJvrg3OGQ1')
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 'https://t.me/Movie_Stores_hub'))
-request_channel = environ.get('REQUEST_CHANNEL', 'https://t.me/+yxOa9prJvrg3OGQ1') # If anyone sends a request message to your bot, you will get it in this channel.
-MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', 'https://t.me/Movie_hd_Store')) # 
+auth_channel = environ.get('AUTH_CHANNEL', '-1002459211482')
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002317651807'))
+request_channel = environ.get('REQUEST_CHANNEL', '-1002459211482') # If anyone sends a request message to your bot, you will get it in this channel.
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002481796569')) # 
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
