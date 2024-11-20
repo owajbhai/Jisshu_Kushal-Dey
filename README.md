@@ -147,8 +147,8 @@ python3 bot.py
  <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
 <img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
-<h1> <img src="https://cdn.jsdelivr.net/gh/Jisshubot/JISSHU_BOTS/Logo/Jisshu.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://envs.sh/5Na.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
   
-[<img src="https://envs.sh/5Na.jpg" width="60px">](https://telegram.im/@JISSHU_BOTS) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/Jisshubot) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/@JISSHU-BOTS) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/Zishan_khan565)
+[<img src="https://raw.githubusercontent.com/Jisshubot/Jisshubot/master/resources/telegram_icon.png" width="60px">](https://telegram.im/@SAKSHI_UPDATES) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://t.me/ll_Alexa_ll) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://t.me/SAKSHI_UPDATES) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://t.me/ll_Alexa_ll)
 
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
