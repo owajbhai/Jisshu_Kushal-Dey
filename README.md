@@ -2,7 +2,7 @@
   <img src="https://envs.sh/_M3.jpg" alt="Alexa-Auto-filter">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/SAKSHI_UPDATES">Alexa Auto Filter Bot</a>
+  <a href="https://telegram.me/Alexa_movie_robot">Alexa Auto Filter Bot</a>
 </h1>
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
