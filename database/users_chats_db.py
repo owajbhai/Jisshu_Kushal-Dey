@@ -342,7 +342,7 @@ class Database:
         user_data = {"id": user_id, "expiry_time": expiry_time, "has_free_trial": True}
         await self.users.update_one({"id": user_id}, {"$set": user_data}, upsert=True)
             
-     # JISSHU BOTS = @IM_JISSHU
+     # ALEXA BOTS =  @ll_Alexa_ll
     async def jisshu_set_ads_link(self,link):
         await self.jisshu_ads_link.update_one({} , {'$set': {'link': link}} , upsert=True)
     async def jisshu_get_ads_link(self):
