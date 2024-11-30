@@ -73,7 +73,7 @@ START_IMG = (environ.get('START_IMG', 'https://envs.sh/THX.jpg https://envs.sh/T
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/YLm.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/YLX.jpg')).split()
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/5Ov.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/Y8R.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡", "🥳"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
