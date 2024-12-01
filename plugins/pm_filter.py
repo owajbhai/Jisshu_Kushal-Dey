@@ -853,10 +853,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('• 𝗖𝗹𝗼𝘀𝗲 •', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)             
-        await client.edit_message_media(
-            query.message.chat.id, 
-            query.message.id, 
-            InputMediaPhoto(random.choice(PAYPICS))
+        await query.message.reply_photo(
+            photo=PAYMENT_QR,
+            caption=PAYMENT_TEXT,
+            reply_markup=reply_markup
         )
         await query.message.edit_text(
             text=script.FREE_TXT.format(query.from_user.mention),
