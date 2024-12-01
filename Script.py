@@ -266,11 +266,11 @@ User - {}"""
  ❏ 149₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
  ❏ 300₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-🆔 𝐓𝐆 ɪᴅ ➩ <code>@onefighterarmy</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+🆔 UPI ɪᴅ ➩ <code>dbarun326@okhdfcbank</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🏷️ <a href='https://t.me/onefighterarmy'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://t.me/Barun_Dey'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
