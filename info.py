@@ -98,7 +98,7 @@ LINK_MODE = is_enabled('LINK_MODE', True)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or Flase
+STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or Flase
 # Online Stream and Download
 
 MULTI_CLIENT = False
@@ -108,7 +108,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("FQDN", "")
+URL = environ.get("FQDN", "https://one50rs-buy-barun-dey-0002.onrender.com")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
