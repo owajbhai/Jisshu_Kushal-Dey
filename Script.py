@@ -234,7 +234,7 @@ Ab bina rukawat, direct download aur latest content ka maza uthaiye — sirf ham
     # <b>👋 ʜᴇʏ {}
     
 
-⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
+<b> ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 </b>"""
 
     OTHER_TXT = """<b>👋 ʜᴇʏ {},
