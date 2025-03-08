@@ -149,7 +149,7 @@ User - {}"""
 ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ʙᴜʏɪɴɢ ↡↡↡
 </b>"""
     
-    VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
+    VERIFICATION_TEXT = """<b> ʜᴇʏ {},
 
 🎬 Apni Pasandida Movies Aur Web Series Ka Maza Lo! 🍿
 
