@@ -151,9 +151,15 @@ User - {}"""
     
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
 
-📌 <u>ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪғʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ғᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ</u>
+🎬 Apni Pasandida Movies Aur Web Series Ka Maza Lo! 🍿
 
-#ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 1/3 ✓
+Ab bina rukawat, direct download aur latest content ka maza uthaiye — sirf hamari Movie Bot Membership ke sath! 💯
+
+✅ Har Naye Movie Ka Sabse Pehle Access!
+✅ Fast Download, Koi Wait Nahi!
+✅ Unlimited Entertainment, Non-stop Masti!
+
+🔥 Ab Der Kis Baat Ki? Apni Membership Abhi Lo!
 
 ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ғɪʟᴇꜱ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴꜱ ᴛʜᴇɴ ʙᴜʏ ʙᴏᴛ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 😊
 
