@@ -226,7 +226,7 @@ Ab bina rukawat, direct download aur latest content ka maza uthaiye — sirf ham
 - 20₹ - 15 ᴅᴀʏꜱ
 - 30₹ - 1 ᴍᴏɴᴛʜs
 
-💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ  ᴘᴀʏᴍᴇɴᴛ - @Barun_Dey
+💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ  ᴘᴀʏᴍᴇɴᴛ - @Barun_Dey @onefighterarmy
 
 ‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ""    
 """
