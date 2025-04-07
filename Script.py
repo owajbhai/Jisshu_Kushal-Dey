@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/botmaster55">MASTER 😎</a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Ritikmoves2">RITIK 😎</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
@@ -151,19 +151,14 @@ User - {}"""
     
     VERIFICATION_TEXT = """<b> ʜᴇʏ {},
 
-🎬 Apni Pasandida Movies Aur Web Series Ka Maza Lo! 🍿
+🎬 ♨️ YOU ARE NOT VERIFIED !
+KINDLY VERIFY TO CONTINUE & YOU CAN GET UNLIMITED ACCESS FOR 24 HOURS ✅
 
-Ab bina rukawat, direct download aur latest content ka maza uthaiye — sirf hamari Movie Bot Membership ke sath! 💯
+⚜️ इस BOT से MOVIE प्राप्त करने के लिए आपको VERIFY करना आवश्यक है VERIFY करने के बाद आप 1/3, 24 घंटे तक UNLIMITED MOVIES प्राप्त कर सकते हो। 
 
-✅ Har Naye Movie Ka Sabse Pehle Access!
-✅ Fast Download, Koi Wait Nahi!
-✅ Unlimited Entertainment, Non-stop Masti!
+🔥 अगर आप VERIFY नहीं करना चाहते तो आप PREMIUM ले सकते हो, PREMIUM लेने के बाद आप UNLIMITED MOVIES प्राप्त कर पाओगे और आपको VERIFY करने कोई जरूरत नहीं है
 
-🔥 Ab Der Kis Baat Ki? Apni Membership Abhi Lo!
-
-ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ғɪʟᴇꜱ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴꜱ ᴛʜᴇɴ ʙᴜʏ ʙᴏᴛ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 😊
-
-💶 sᴇɴᴅ /plan ᴛᴏ ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ</b>"""
+PLAN DETAILS के लिए CLICK करें /plan</b>"""
 
     VERIFY_COMPLETE_TEXT = """<b>👋 ʜᴇʏ {},
 
@@ -248,9 +243,7 @@ Ab bina rukawat, direct download aur latest content ka maza uthaiye — sirf ham
  ❏ 010₹    ➠    𝟶𝟷 ᴡᴇᴇᴋꜱ
  ❏ 030₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
  ❏ 050₹    ➠    𝟶𝟸 ᴍᴏɴᴛʜ
- ❏ 100₹    ➠    𝟶𝟹 ᴍᴏɴᴛʜ
- ❏ 149₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
- ❏ 300₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
+ ❏ 070₹    ➠    𝟶𝟹 ᴍᴏɴᴛʜ
 
 🆔 UPI ɪᴅ ➩ <code>ritikjatain22102001-1@oksbi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
@@ -269,13 +262,11 @@ Ab bina rukawat, direct download aur latest content ka maza uthaiye — sirf ham
     
 <blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
 
- ❏ 015₹    ➠    𝟶𝟷 ᴡᴇᴇᴋꜱ
- ❏ 039₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
- ❏ 065₹    ➠    𝟶𝟸 ᴍᴏɴᴛʜ
- ❏ 100₹    ➠    𝟶𝟹 ᴍᴏɴᴛʜ
- ❏ 149₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
- ❏ 300₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
-
+ ❏ 010₹    ➠    𝟶𝟷 ᴡᴇᴇᴋꜱ
+ ❏ 030₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
+ ❏ 050₹    ➠    𝟶𝟸 ᴍᴏɴᴛʜ
+ ❏ 070₹    ➠    𝟶𝟹 ᴍᴏɴᴛʜ
+ 
 🆔 UPI ɪᴅ ➩ <code>ritikjatain22102001-1@oksbi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
@@ -366,7 +357,7 @@ developer : Alexa
 /set_time_2 {seconds} Sᴇᴛ ᴛʜᴇ sᴇᴄᴏɴᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 /set_time_3 {seconds} Sᴇᴛ ᴛʜᴇ ᴛʜɪʀᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 --------------Verify On Off------------
-/verifyoff {verify.off code} - off verification <a href="https://t.me/onefighterarmy">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
+/verifyoff {verify.off code} - off verification <a href="https://t.me/Ritikmoves2">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
 /verifyon - on verification 
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
