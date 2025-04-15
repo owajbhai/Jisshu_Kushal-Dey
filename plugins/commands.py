@@ -773,7 +773,7 @@ async def set_shortner_2(c, m):
     try:
         URL = m.command[1]
         API = m.command[2]
-        resp = requests.get(f'https://{URL}/api?api={API}&url=https://t.me/Ritikmoves2').json()
+        resp = requests.get(f'https://{URL}/api?api={API}&url=https://t.me/botmaster55').json()
         if resp['status'] == 'success':
             SHORT_LINK = resp['shortenedUrl']
         await save_group_settings(grp_id, 'shortner_two', URL)
