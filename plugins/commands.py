@@ -408,7 +408,7 @@ async def start(client:Client, message):
         delCap,
         reply_to_message_id= toDel.id)
     await asyncio.sleep(FILE_AUTO_DEL_TIMER)
-    await toDel.delete()
+    await delCap.delete()
     return await replyed.edit(afterDelCap)
     
 
